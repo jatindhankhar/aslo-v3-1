@@ -92,3 +92,7 @@ footer a {
 .dropdown-menu  li {
     display: initial;
     }
+
+i.fa::before {
+    margin-right: 10px;
+}
